@@ -151,14 +151,14 @@ olist-ecommerce-analytics/
 │   ├── 02_business_analysis.sql
 │   └── 03_analytics_views.sql
 ├── dashboard/
-│   └── Olist_Ecommerce_Analytics.pbix
+│   └── Dashboard_Ecommerce_Olist.pbix
 ├── images/
-│   ├── executive_overview.png
-│   ├── customer_analytics.png
-│   ├── customer_segmentation.png
-│   ├── product_performance.png
-│   ├── seller_performance.png
-│   └── logistics_operations.png
+│   ├── images/01_executive_overview.png
+│   ├── images/02_customer_analytics.png
+│   ├── images/03_customer_segmentation.png
+│   ├── images/04_product_performance.png
+│   ├── images/05_seller_performance.png
+│   └── images/06_logistics_operations.png
 └── README.md
 ```
 
